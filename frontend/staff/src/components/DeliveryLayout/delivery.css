@@ -1,0 +1,25 @@
+.delivery-shipper{
+    background-color: rgb(209, 239, 239);
+    border-radius: 25px;
+    align-self: center;
+}
+.delivery-shipper p {
+    /* margin-left: 15px; */
+    padding: 25px ;
+    margin: 0;
+}
+.index-order{
+    background-color: rgb(5, 71, 70);
+    border-top-left-radius: 25px;
+    border-bottom-left-radius: 25px;
+    color: #fff;
+}
+.btn-delivery{
+    padding: 10px;
+    border: none;
+    margin-right: 5px;
+    background-color: rgb(0, 0, 0);
+    color: #fff;
+    border-top-right-radius: 25px;
+    border-bottom-right-radius: 25px;
+}

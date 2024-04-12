@@ -1,0 +1,14 @@
+.img-product-page {
+    width: 150px;
+    height: auto;
+    object-fit: cover;
+    margin-top: 10px;
+}
+.card-container-product-page a {
+    text-decoration: none;
+}
+.card-container-product-page p {
+    color: rgb(255, 0, 0);
+    font-weight: bold;
+    margin: 0;
+}

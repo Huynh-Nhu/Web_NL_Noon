@@ -1,0 +1,51 @@
+.form-brand{
+    margin: 150px auto;
+    color: #fff;
+
+}
+.form-brand-content{
+    /* background-color: #eae6e6; */
+    background-image: url(/public/assets/img/background/login-page.jpg);
+    padding: 50px ;
+    border-radius: 25px;
+    box-shadow: 2px 2px 10px rgb(248, 248, 248);
+    
+    /* width: m; */
+}
+.form-brand-edit{
+    justify-content: center;
+    display: flex;
+    margin-left: 35px;
+}
+.img-logo-brand{
+    width: 200px;
+    border-radius: 20px;
+
+    
+}
+.img-null{
+    margin-left: 25px;
+    width: 200px;
+    border-radius: 20px;
+}
+.btn-brand{
+    text-align: center;
+    margin-top: 25px;
+}
+.btn-brand button {
+    background-color: #d55353;
+    border: none;
+}
+.sum-brand span {
+    color: #d55353;
+}
+.content-brand{
+    background-color: #4ea6bd;
+    padding: 20px;
+    border-radius: 25px;
+    width: 900px;
+    margin-left: 15%;
+}
+.img-brand-update{
+    text-align: center;
+}

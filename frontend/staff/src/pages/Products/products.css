@@ -1,0 +1,47 @@
+.custom-card-detail {
+    position: relative;
+    width: 100%;
+    margin-bottom: 1rem;
+    /* padding: 10px 25px; */
+    
+}
+.custom-card-detail a{
+    color: #000;
+    text-decoration: none;
+    text-align: center;
+}
+.card-orverlay-product {
+    align-self: center;
+    background-color: #0000006d;
+    color: #fff;
+    border-radius: 0;
+}
+.card-orverlay-product  p {
+    font-size: 25px;
+    font-weight: 700;
+
+}
+.custom-image-detail {
+    width: 100%;
+    height: 200px;
+    object-fit:fill;
+    
+}
+.add-icon-container {
+    position: absolute;
+    top: 0;
+    right: 0;
+    transform: translate(50%, -50%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 30px;
+    height: 30px;
+    background-color: #fff;
+    border-radius: 50%;
+    cursor: pointer;
+  }
+  
+  .add-products {
+    font-size: 30px;
+  }

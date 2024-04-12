@@ -1,0 +1,28 @@
+.login-page{
+    margin: 0;
+    height: 100vh;
+    background-image: url(/public/assets/login.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+}
+.content-form-login{
+    /* margin-top: 200px; */
+}
+.login-form-container {
+    padding: 0px 50px;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.326);
+    border-radius: 25px;
+  
+}
+.img-login {
+  width: 100% ; /* Điều chỉnh kích thước hình ảnh theo ý muốn */
+}
+.form-login{
+    padding: 50px;
+    background-color:#bad8f7;
+    margin-bottom: 60px;
+    border: 2px solid #8b8b8b95;
+    border-radius: 25px;
+}

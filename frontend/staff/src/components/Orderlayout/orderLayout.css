@@ -1,0 +1,27 @@
+.header-order {
+    position: sticky;
+    top: 5%;
+    transform: translateY(-50%);
+    right: 0;
+   text-align: end;
+   background-color: black;
+   padding: 10px;
+   border-radius: 100px;
+}
+
+.table-order {
+    /* margin-top: 25px; */
+}
+
+.btn-shipper button{
+    /* float: right; */
+    /* margin-top: 15px; */
+    background-color: transparent;
+    color: #fff;
+    border: none;
+    font-size: 20px;
+    margin-right: 20px;
+}
+.spinner-order{
+    text-align: center;
+}

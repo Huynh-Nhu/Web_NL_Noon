@@ -1,0 +1,15 @@
+.custom-modal-dialog {
+    max-width: 800px;
+}
+
+.custom-modal-content {
+    padding: 20px;
+}
+.alert-add-cate{
+    padding: 0px;
+    text-align: center;
+    margin-top: 8px;
+}
+.text-alert{
+    margin-top: 10px;
+}

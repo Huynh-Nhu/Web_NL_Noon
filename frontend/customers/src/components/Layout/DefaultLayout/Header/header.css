@@ -1,0 +1,31 @@
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+  }
+  .header a {
+    text-decoration: none ;
+    /* background-color: #1dc048; */
+  }
+  .logo img {
+    /* font-weight: bold; */
+    height: 70px;
+    border-radius: 100px;
+  }
+  
+  .search {
+    flex-grow: 1;
+    margin: 0 10px;
+    max-width: 500px; 
+     
+     /* padding: 0 200px; */
+  }
+  
+  .cart {
+    margin: 5px 10px;
+  }
+  
+  .customer-info {
+    margin: 0 10px;
+  }

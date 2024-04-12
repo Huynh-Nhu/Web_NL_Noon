@@ -1,0 +1,10 @@
+.modal-mess-dialog {
+  max-width: 400px;
+  padding: 0px;
+  text-align: center;
+  font-size: 17px;
+}
+
+.modal-mess-content {
+  padding: 20px;
+}

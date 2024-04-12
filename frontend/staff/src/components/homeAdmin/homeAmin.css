@@ -1,0 +1,31 @@
+.card-home-account{
+    position: relative;
+    height: 80px;
+}
+.card-img-account{
+    position: absolute;
+    top: -40px;
+}
+.card-account{
+    position: absolute;
+    right: 0;
+}
+.select-revenue{
+    /* align-self: end; */
+    border-radius: 10px;
+    float: inline-end;
+    background-color: #c1c1c1;
+    padding: 5px;
+}
+.select-revenue h3  {
+    text-align: center;
+}
+.chart-home h3 {
+    /* text-align: center; */
+    font-family:'Times New Roman', Times, serif;
+    font-style: italic;
+    text-transform:capitalize;
+}
+.radios-revenue label {
+    margin-left: 20px;
+}

@@ -1,0 +1,11 @@
+.login-page {
+   background-color: rgba(110, 149, 174, 0.871);
+    margin: 0px;
+    
+}
+.img-login{
+    width: 180px;
+    border-radius: 100%;
+    box-shadow: 5px 10px 10px  rgba(0, 0, 0, 0.505);
+    filter: blur(0.3px);
+}

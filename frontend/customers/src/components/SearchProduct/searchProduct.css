@@ -1,0 +1,23 @@
+.product-option {
+  display: flex;
+  align-items: center;
+}
+.product-link {
+    text-decoration: none;
+    color: black;
+  }
+.product-option-image {
+  margin-right: 10px;
+}
+
+.img-search {
+  width: 100px;
+}
+
+.product-option-label {
+  text-align: left;
+}
+.search-home{
+    /* padding: 0 200px; */
+    /* width:fit-content   ; */
+}

@@ -1,0 +1,52 @@
+.product-page {
+  display: flex;
+  height: 100vh;
+}
+
+.sidebar-product {
+  flex: 0 0 25%;
+  /* Định kích thước của sidebar */
+  background-color: #f0f0f0;
+  padding: 20px;
+  height: 100%;
+}
+
+.content-product {
+  flex: 1;
+  /* Tự mở rộng để lấp đầy không gian còn lại */
+  padding: 20px;
+}
+
+.brand-container {
+  display: flex;
+  flex-wrap: wrap;
+  /* Đảm bảo các hình ảnh xuất hiện trên nhiều dòng */
+  justify-content: center;
+  /* Căn giữa các phần tử con theo chiều ngang */
+}
+
+.brand-item {
+  margin: 10px;
+  /* Khoảng cách giữa các phần tử */
+}
+
+.img-brand {
+  width: 70px;
+  /* Kích thước của hình ảnh */
+  height: 70px;
+  border-radius: 10px;
+}
+
+.category-name-sidebar {
+  border: 1px solid  rgb(140, 199, 208) ;
+  border-radius: 25px;
+  text-transform: capitalize;
+  box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.326);
+  padding: 5px;
+  /* color: #fff; */
+}
+.category-name-sidebar:hover {
+  background-color: rgba(131, 179, 221, 0.962);
+  color: #fff;
+
+}
